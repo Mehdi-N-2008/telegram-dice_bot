@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/mehdi-N-2008)/telegram-dice-bot.git
+git remote add origin https://github.com/mehdi-N-2008/telegram-dice-bot.git
 git add .
 git commit -m "initial"
 git push origin main
